@@ -1,0 +1,9 @@
+transformers ~= 4.47.1
+accelerate ~= 1.7.0
+datasets ~= 3.6.0
+evaluate ~= 0.4.3
+scikit-learn
+sentencepiece
+liger-kernel ~= 0.5.10
+flash-attn ~= 2.8.0.post2
+git+https://github.com/EleutherAI/lm-evaluation-harness@v0.4.9.1
