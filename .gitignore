@@ -2,4 +2,3 @@ __pycache__
 wandb
 outputs
 harness
-run*.sh
